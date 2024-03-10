@@ -1,0 +1,15 @@
+/* 태그를 꾸미는 방식 */
+h1 {
+    font-size: 25px;
+    color: red;
+}
+/* 해당 클래스를 모두 꾸미는 방식 */
+.login_inputs {
+    font-size: 25px;
+}
+/* id를 통해 스타일링 하는 방식 */
+#login_btn {
+    font-size: 30px;
+    width: 100px;
+    height: 30px;
+}
